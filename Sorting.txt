@@ -1,0 +1,24 @@
+C:\Users\sspag>git --version
+git version 2.46.0.windows.1
+
+C:\Users\sspag>cd C:\Users\sspag\Desktop\sudoku-app
+
+C:\Users\sspag\Desktop\sudoku-app>git init
+Initialized empty Git repository in C:/Users/sspag/Desktop/sudoku-app/.git/
+
+C:\Users\sspag\Desktop\sudoku-app>git remote add origin https://github.com/SARTHAK-1594/Sudoku_Puzzle.git
+
+C:\Users\sspag\Desktop\sudoku-app>git add .
+warning: in the working copy of '.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package-lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/manifest.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/robots.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/App.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/App.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/App.test.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/index.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/index.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/reportWebVitals.js', LF will be replaced by CRLF the next time Git touches it
